@@ -3,10 +3,48 @@
 
 ### Ethereum events #BUIDL
 
-* https://www.blockathon.pl/
-* https://ethberlin.com/
-* https://ethberlin.com/
+https://devcon.ethereum.org/
+https://ethcc.io/
+https://edcon.io/
 
+### Hackathons
+
+
+* https://www.blockathon.pl/
+* https://hackital.io/
+
+
+#### Parts of https://ethglobal.co/
+* https://ethberlin.com/
+* https://ethindia.co/
+* https://ethbuenosaires.com/
+* https://ethdenver.com/
+
+
+
+#### Online events
+* https://blockgeeks.com/colony-global-hackathon-2018/
+
+
+### Other events
+* https://etherealsummit.com/about/
+* https://www.noncentralconf.com/
+* http://www.anarchaportugal.com/ 
+
+
+
+#### Other blockchains
+
+* https://bh2018.hodlhodl.com/
+* https://breaking-bitcoin.com/
+* https://building-on-bitcoin.com/
+* https://neworder.hcpp.cz/
+* https://eoshackathon.io/
+
+### Security audits
+
+* https://consensys.net/diligence/
+* https://zeppelin.solutions/security-audits/
 
 
 ### List of lists
