@@ -2,9 +2,9 @@
 
 ### Ethereum events #BUIDL
 
-https://devcon.ethereum.org/
-https://ethcc.io/
-https://edcon.io/
+* https://devcon.ethereum.org/
+* https://ethcc.io/
+* https://edcon.io/
 
 ### Hackathons
 * https://www.blockathon.pl/
@@ -53,6 +53,7 @@ https://edcon.io/
 * https://solidified.io/
 * https://www.iosiro.com/
 * https://authio.org/
+* https://hosho.io/
 * https://smartaudit24.com/
 * https://www.experfy.com/hire/smart-contract-audits
 
