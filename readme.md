@@ -1,5 +1,9 @@
 ### Inspiration of inspiration of inspiration: https://github.com/sindresorhus/awesome
 
+### TODO:
+* add fancy table format: https://help.github.com/articles/organizing-information-with-tables/
+* take fullpage screenshots of the event pages to promote the sponsors (they paid some money, they want recognition)
+
 ### Ethereum events #BUIDL
 
 * https://devcon.ethereum.org/
@@ -11,16 +15,15 @@
 * https://hackital.io/
 * Recruitment firm running it, 30k CHF in prices: https://www.eventbrite.co.uk/e/blockchain-hackathon-tickets-46070944435
 
-
-#### Parts of https://ethglobal.co/
+#### Hackathons https://ethglobal.co/
 * https://ethberlin.com/
 * https://ethindia.co/
 * https://ethbuenosaires.com/
 * https://ethdenver.com/
+(good luck managing 1000s of domains as you grow)
 
 #### Online events
 * https://blockgeeks.com/colony-global-hackathon-2018/
-
 
 ### Other events
 * https://etherealsummit.com/about/
@@ -65,8 +68,11 @@
 Low information diet. Important news will you anyway. **#buidl**
 * http://proofofwork.news/
 * https://tokeneconomy.co
+* https://www.reddit.com/r/ethereum/top/?t=week *(don't just visit Reddit, get the really important shit first)
 
 ### List of lists
+* https://github.com/Scanate/EthList
+* https://github.com/L4ventures/library
 * https://github.com/ethereum/wiki/wiki/Ethereum-Virtual-Machine-(EVM)-Awesome-List
 * https://github.com/pirapira/awesome-ethereum-virtual-machine (twin brother)
 * http://awesome-ethereum.com/
@@ -74,6 +80,8 @@ Low information diet. Important news will you anyway. **#buidl**
 * https://github.com/btomashvili/awesome-ethereum
 * https://github.com/void4/awesome-ethereum
 * https://github.com/bkrem/awesome-solidity
+
+**Regulatory disclaimer:** creating a list of lists does not imply that I've read *(or understood)* the material.
 
 ### Personal favourites to learn
 Some time ago when I started none of it existed, these days learning Solidity is much more approachable.
