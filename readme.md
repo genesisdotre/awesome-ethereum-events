@@ -5,7 +5,6 @@
 * take fullpage screenshots of the event pages to promote the sponsors (they paid some money, they want recognition)
 
 ### Ethereum events #BUIDL
-
 * https://devcon.ethereum.org/
 * https://ethcc.io/
 * https://edcon.io/
@@ -22,25 +21,48 @@
 * https://ethdenver.com/
 (good luck managing 1000s of domains as you grow)
 
-#### Online events
+#### Online hackathons
 * https://blockgeeks.com/colony-global-hackathon-2018/
 
 ### Other events
 * https://etherealsummit.com/about/
 * https://www.noncentralconf.com/
+* https://pillarproject.io/unconference2018/
 
 #### Bitcoin
 * https://bh2018.hodlhodl.com/
 * https://breaking-bitcoin.com/
 * https://building-on-bitcoin.com/
 
-### EOS
-* https://eoshackathon.io/
-
 ### Freedom
 * https://neworder.hcpp.cz/
 * https://anarchaportugal.com/
 * https://anarchapulco.com/
+* http://porcfest.com/
+
+### Massive list of events from 2018 that I didn't attent but heard of them and are rather cool
+To organize into a few categories - community, developers, ico hype, fintech...
+* https://www.blockchainhotel.de/konferenz/
+* http://d10e.biz/
+* http://coinagenda.com/
+* https://blockchainunbound.com/
+* http://blockchainsummitdubai.com/
+* https://www.blockchainweek.com/
+* http://coinfestuk.org/
+* https://monaco-international-blockchain.io/
+* http://mitbitcoinexpo.org/
+* https://www.token2049.com/
+* https://btcmiami.com/
+* https://cryptoinvestsummit.io/
+* https://cryptofriends.io/events/sxsw
+* http://dogecon.fun/
+* https://europe.money2020.com/
+
+### Bitcoin Cash
+* https://satoshisvisionconference.com/
+
+### EOS
+* https://eoshackathon.io/
 
 ### Have bounty? Publish your work here
 * https://ethlance.com/
@@ -59,6 +81,15 @@
 * https://hosho.io/
 * https://smartaudit24.com/
 * https://www.experfy.com/hire/smart-contract-audits
+
+### Facebook groups
+* https://www.facebook.com/groups/bitcoin.developers/ - Blockchain developers
+
+Polish: 
+* https://www.facebook.com/groups/849846545041140/ - Ethereum Polska
+* https://www.facebook.com/groups/531936723867447/ - Programiści Ethereum
+* https://www.facebook.com/groups/261653324408816/ - Ethereum Dev Polska
+
 
 ### Security best practices
 * https://consensys.github.io/smart-contract-best-practices/
