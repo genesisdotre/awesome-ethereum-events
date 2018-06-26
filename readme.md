@@ -1,5 +1,7 @@
 ### Inspiration of inspiration of inspiration: https://github.com/sindresorhus/awesome
 
+![](https://raw.githubusercontent.com/genesisdotre/awesome-ethereum-events/master/awesome-ethereum-events.jpg)
+
 ### TODO:
 * add fancy table format: https://help.github.com/articles/organizing-information-with-tables/
 * take fullpage screenshots of the event pages to promote the sponsors (they paid some money, they want recognition)
