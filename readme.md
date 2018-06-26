@@ -34,6 +34,8 @@
 * https://www.noncentralconf.com/
 * https://pillarproject.io/unconference2018/
 * https://cesc.io/ - crypto economics security conference - OCT 11-12 - UC BERKELEY
+* https://ethereum-magicians.github.io/berlin-council/ - July 14 - 15 Berlin
+* https://www.dappcon.io/ - Developer Conference for Ethereum Dapps & Infrastructure - 19. & 20. July in Berlin
 
 ### Massive list (uncategorized, mostly in the past)
 * https://www.blockchainhotel.de/konferenz/
@@ -128,3 +130,4 @@ Some time ago when I started none of it existed, these days learning Solidity is
 * https://coursetro.com/posts/code/99/Interacting-with-a-Smart-Contract-through-Web3.js-(Tutorial)
 * https://cryptozombies.io/
 * https://www.youtube.com/channel/UCaWes1eWQ9TbzA695gl_PtA/videos
+* https://www.reddit.com/r/ethereum/comments/8smqe0/creating_useful_dapps_is_easier_than_people_think/ - recently found on Reddit
