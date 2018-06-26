@@ -31,8 +31,9 @@
 * https://etherealsummit.com/about/
 * https://www.noncentralconf.com/
 * https://pillarproject.io/unconference2018/
+* https://cesc.io/ - crypto economics security conference - OCT 11-12 - UC BERKELEY
 
-### Massive list of events from 2018 that I didn't attent but heard of them and are rather cool
+### Massive list (uncategorized, mostly in the past)
 * https://www.blockchainhotel.de/konferenz/
 * http://d10e.biz/
 * http://coinagenda.com/
