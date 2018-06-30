@@ -36,6 +36,11 @@
 * https://cesc.io/ - crypto economics security conference - OCT 11-12 - UC BERKELEY
 * https://ethereum-magicians.github.io/berlin-council/ - July 14 - 15 Berlin
 * https://www.dappcon.io/ - Developer Conference for Ethereum Dapps & Infrastructure - 19. & 20. July in Berlin
+* https://www.theblockchainevent.com
+* https://futuristconference.com/
+* https://hack.ens.domains/
+* ttps://blockchainlive.com/
+* https://twitter.com/build_eth
 
 ### Massive list (uncategorized, mostly in the past)
 * https://www.blockchainhotel.de/konferenz/
@@ -121,6 +126,8 @@ Low information diet. Important news will you anyway. **#buidl**
 * https://github.com/btomashvili/awesome-ethereum
 * https://github.com/void4/awesome-ethereum
 * https://github.com/bkrem/awesome-solidity
+* https://github.com/ConsenSysLabs/ethereum-developer-tools-list
+* https://github.com/sec-bit/awesome-buggy-erc20-tokens
 
 **Regulatory disclaimer:** creating a list of lists does not imply that I've read *(or understood)* the material.
 
