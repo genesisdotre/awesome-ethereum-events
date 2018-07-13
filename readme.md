@@ -41,6 +41,8 @@
 * https://hack.ens.domains/
 * ttps://blockchainlive.com/
 * https://twitter.com/build_eth
+* http://dgov.earth
+* https://crowdsourcingweek.com/csw-global-2018/
 
 ### Massive list (uncategorized, mostly in the past)
 * https://www.blockchainhotel.de/konferenz/
@@ -58,6 +60,8 @@
 * https://cryptofriends.io/events/sxsw
 * https://europe.money2020.com/
 * https://innovationexperience.org - tour of crypto startups
+* https://2017.labitconf.com/
+* https://digitalcurrencycon.com/ - July 13th - 14th, 2018 - PARK CITY, UTAH
 
 ### Bitcoin
 * https://bh2018.hodlhodl.com/
@@ -128,6 +132,12 @@ Low information diet. Important news will you anyway. **#buidl**
 * https://github.com/bkrem/awesome-solidity
 * https://github.com/ConsenSysLabs/ethereum-developer-tools-list
 * https://github.com/sec-bit/awesome-buggy-erc20-tokens
+* https://github.com/JoinColony/awesome-web3
+* https://github.com/rstormsf/awesome-crowdsales
+* https://github.com/Xel/Blockchain-stuff
+* https://github.com/kennethreitz/awesome-coins
+* https://github.com/coinpride/CryptoList
+
 
 **Regulatory disclaimer:** creating a list of lists does not imply that I've read *(or understood)* the material.
 
