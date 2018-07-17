@@ -6,7 +6,10 @@
 * add fancy table format: https://help.github.com/articles/organizing-information-with-tables/
 * take fullpage screenshots of the event pages to promote the sponsors (they paid some money, they want recognition)
 * put events on the map, literally
-* think about schema metadata - dates, location, tags (ethereum, buidl, fintech, ico shilling)
+* think about schema metadata - dates, location, tags (ethereum, buidl, fintech, ico shilling
+
+### Happening now
+* https://beyondblocks.com/ (Korea blockckchain week)
 
 ### Ethereum events #BUIDL
 * https://devcon.ethereum.org/
