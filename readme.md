@@ -11,6 +11,10 @@
 ### Happening now
 * https://beyondblocks.com/ (Korea blockckchain week)
 
+### Recent additions
+* http://evolvingcaravan.com
+* http://chicagoblockchainproject.com/voice-of-blockchain/
+
 ### Ethereum events #BUIDL
 * https://devcon.ethereum.org/
 * https://ethcc.io/
