@@ -50,6 +50,7 @@
 * https://twitter.com/build_eth
 * http://dgov.earth
 * https://crowdsourcingweek.com/csw-global-2018/
+* https://decentralizedweb.net/
 
 ### Massive list (uncategorized, mostly in the past)
 * https://www.blockchainhotel.de/konferenz/
