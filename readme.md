@@ -64,7 +64,7 @@
 * http://mitbitcoinexpo.org/
 * https://www.token2049.com/
 * https://btcmiami.com/
-* https://cryptoinvestsummit.io/
+* https://cryptoinvestsummit.io/ - October 22-24, Los Angeles
 * https://cryptofriends.io/events/sxsw
 * https://europe.money2020.com/
 * https://innovationexperience.org - tour of crypto startups
