@@ -9,7 +9,8 @@
 * think about schema metadata - dates, location, tags (ethereum, buidl, fintech, ico shilling
 
 ### Happening now
-* https://beyondblocks.com/ (Korea blockckchain week)
+* https://www.futuramasummit.com/
+* https://coinsbank.com/cruise-europe
 
 ### Recent additions
 * http://evolvingcaravan.com
@@ -51,6 +52,7 @@
 * http://dgov.earth
 * https://crowdsourcingweek.com/csw-global-2018/
 * https://decentralizedweb.net/
+* https://beyondblocks.com/ (Korea blockckchain week)
 
 ### Massive list (uncategorized, mostly in the past)
 * https://www.blockchainhotel.de/konferenz/
