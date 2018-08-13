@@ -16,6 +16,7 @@
 * http://evolvingcaravan.com
 * http://chicagoblockchainproject.com/voice-of-blockchain/
 * https://futuristconference.com/ - August 15-16th Toronto, Canada
+* https://london.keynote.ae/ - World Blockchain Forum - London - 3-5 September
 
 ### Ethereum events #BUIDL
 * https://devcon.ethereum.org/
