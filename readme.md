@@ -15,6 +15,7 @@
 ### Recent additions
 * http://evolvingcaravan.com
 * http://chicagoblockchainproject.com/voice-of-blockchain/
+* https://futuristconference.com/ - August 15-16th Toronto, Canada
 
 ### Ethereum events #BUIDL
 * https://devcon.ethereum.org/
