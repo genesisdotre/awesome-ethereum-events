@@ -18,6 +18,7 @@
 * https://futuristconference.com/ - August 15-16th Toronto, Canada
 * https://london.keynote.ae/ - World Blockchain Forum - London - 3-5 September
 * https://www.blockchainamericassummit.com/ - November 25th - 30th, 2018 - Miami, FL
+* https://www.chainxchange.com/ - LAS VEGAS, AUGUST 13 – 15, 2018
 
 ### Ethereum events #BUIDL
 * https://devcon.ethereum.org/
