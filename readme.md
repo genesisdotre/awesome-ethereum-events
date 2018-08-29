@@ -13,6 +13,7 @@
 * https://coinsbank.com/cruise-europe
 
 ### Recent additions
+* http://www.cryptosprings.org/ - October 3 – 4 in Palm Springs, CA
 * http://evolvingcaravan.com
 * http://chicagoblockchainproject.com/voice-of-blockchain/
 * https://futuristconference.com/ - August 15-16th Toronto, Canada
