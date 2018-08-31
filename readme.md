@@ -21,6 +21,7 @@
 * https://www.blockchainamericassummit.com/ - November 25th - 30th, 2018 - Miami, FL
 * https://www.chainxchange.com/ - LAS VEGAS, AUGUST 13 – 15, 2018
 * https://blockshow.com/ - SINGAPORE	 NOVEMBER 27 - DECEMBER 1
+* https://www.tokensky.net - TOKYO
 
 ### Ethereum events #BUIDL
 * https://devcon.ethereum.org/
