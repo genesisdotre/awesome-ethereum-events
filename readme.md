@@ -22,6 +22,7 @@
 * https://www.chainxchange.com/ - LAS VEGAS, AUGUST 13 – 15, 2018
 * https://blockshow.com/ - SINGAPORE	 NOVEMBER 27 - DECEMBER 1
 * https://www.tokensky.net - TOKYO
+* https://delta-summit.com/ - Malta - 3-5 October
 
 ### Ethereum events #BUIDL
 * https://devcon.ethereum.org/
