@@ -23,6 +23,7 @@
 * https://blockshow.com/ - SINGAPORE	 NOVEMBER 27 - DECEMBER 1
 * https://www.tokensky.net - TOKYO
 * https://delta-summit.com/ - Malta - 3-5 October
+* https://blockchainshift.io/ - Miami - October 11-12
 
 ### Ethereum events #BUIDL
 * https://devcon.ethereum.org/
