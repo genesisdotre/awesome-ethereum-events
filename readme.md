@@ -6,13 +6,15 @@
 * add fancy table format: https://help.github.com/articles/organizing-information-with-tables/
 * take fullpage screenshots of the event pages to promote the sponsors (they paid some money, they want recognition)
 * put events on the map, literally
-* think about schema metadata - dates, location, tags (ethereum, buidl, fintech, ico shilling
+* think about schema metadata - dates, location, tags (ethereum, buidl, fintech, ico shilling)
+* this one is surprisingly complete: https://www.coinschedule.com/conferences.html
 
-### Happening now
+### Coming soon
+* https://aracon.one/ - 29th-30th of January 2019 in Berlin
+
+
 * https://www.futuramasummit.com/
 * https://coinsbank.com/cruise-europe
-
-### Recent additions
 * http://www.cryptosprings.org/ - October 3 – 4 in Palm Springs, CA
 * http://evolvingcaravan.com
 * http://chicagoblockchainproject.com/voice-of-blockchain/
@@ -33,9 +35,7 @@
 ### Hackathons
 * https://www.blockathon.pl/
 * https://hackital.io/
-* Recruitment firm running it, 30k CHF in prices: https://www.eventbrite.co.uk/e/blockchain-hackathon-tickets-46070944435
-
-#### Hackathons https://ethglobal.co/
+* https://ethglobal.co/
 * https://ethberlin.com/
 * https://ethindia.co/
 * https://ethbuenosaires.com/
